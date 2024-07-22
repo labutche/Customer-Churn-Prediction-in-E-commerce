@@ -7,7 +7,6 @@ This project aims to predict customer churn in e-commerce using machine learning
 - `code`: Contains all the code files, including scripts and Jupyter notebooks.
 - `data`: Contains the datasets used for the analysis.
 - `figures`: Contains the visualizations and plots generated during the analysis.
-- `notebooks`: Contains Jupyter notebooks with code and analysis.
 - `report`: Contains the final white paper and other related documentation.
 
 ## Getting Started
