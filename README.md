@@ -9,9 +9,3 @@ This project aims to predict customer churn in e-commerce using machine learning
 - `figures`: Contains the visualizations and plots generated during the analysis.
 - `report`: Contains the final white paper and other related documentation.
 
-## Getting Started
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/labutche/Customer-Churn-Prediction-in-E-commerce.git
